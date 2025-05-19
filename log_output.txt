@@ -1,0 +1,6 @@
+[namuwasae] Mon May 19 13:14:48 2025 +0900 docs: Usecase Description 추가 fd73ead
+[namuwasae] Sun May 18 21:54:50 2025 +0900 Update README.md f99b39d
+[namuwasae] Sun May 18 21:54:40 2025 +0900 Update README.md 549d142
+[namuwasae] Sun May 18 21:40:20 2025 +0900 Add .DS_Store to gitignore f143048
+[namuwasae] Sun May 18 20:44:28 2025 +0900 add: initial README d977f18
+[namuwasae] Sun May 18 20:31:37 2025 +0900 Initial commit ffee9e8

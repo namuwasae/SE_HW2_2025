@@ -17,7 +17,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGW40jUjzQ4Z4g="
 					},
-					"name": "modified_bicycle_rendering_service",
+					"name": "modified_bicycle_rental_system",
 					"ownedViews": [
 						{
 							"_type": "UMLActorView",
@@ -1445,7 +1445,7 @@
 									"parentStyle": true,
 									"left": 369.5,
 									"top": 333,
-									"width": 122.0404052734375,
+									"width": 121.46192932128906,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGW40pumjX00iM="
