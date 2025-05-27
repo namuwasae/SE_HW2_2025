@@ -1,3 +1,4 @@
+[namuwasae] Tue May 20 13:20:03 2025 +0900 제출용 폴더 완성 b8c79da
 [namuwasae] Tue May 20 12:56:15 2025 +0900 docs(usecase_diagram,communication_diagram,class_diagram) : -usecase_diagram : 로그인 상태를 유지할 "member" 추가, login함수 및 logout함수 추가 -communication_diagram : 계속 변경되는 다이어그램과 문서들에 맞추어 변경 후 커밋-class_diagram : 문서들을 정리 후 완성 e7f9847
 [namuwasae] Tue May 20 07:37:43 2025 +0900 docs(communication_diagram): 로컬에서 일관성있게 수정 후 커밋 1253489
 [namuwasae] Mon May 19 20:18:03 2025 +0900 docs(usecase_description): 회원가입과 자전거 등록 시 ID 형식 및 중복성 검사 추가 7e21bf4
